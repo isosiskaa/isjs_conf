@@ -33,5 +33,3 @@ If you've found a bug or have ideas for additions, join our Discord:
 
 [![Discord](https://shields.io)](https://discord.gg)
 
-![My Setup](пример.png)
-If you’ve found a bug or have ideas for additions, join our Discord and write.[![Discord](https://shields.io)](https://discord.gg/jeDX5ecM2)
