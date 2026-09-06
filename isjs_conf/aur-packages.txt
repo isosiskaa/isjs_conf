@@ -1,0 +1,6 @@
+aylurs-gtk-shell
+gowall
+happ-desktop-bin
+hyprpanel
+wasypaper
+wlogout
